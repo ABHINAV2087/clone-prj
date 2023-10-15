@@ -1,3 +1,0 @@
-[build]
-  base = "Landingpage" # This tells Netlify where the root of your site is.
-  publish = "index.html" # This is where your built files are located.
